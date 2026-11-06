@@ -1,2 +1,2 @@
-wtcore-feed 1 osWMwBssyOpx9aHLxMp6pVYyLdVpkxUEifS/etsYfAYFXPNV6zcG7tmeufwyD7TFI9wcckcnFuglqvESmCi+yA==
-{"app":"WTCore","published":1794007382672,"latest":null,"cores":{},"news":[{"id":"2026-11-06-hey-there","title":"Hey there!","body":"Welcome to WTCore!","date":1794007382672,"image":"https://raw.githubusercontent.com/nerd-bear/WTCore/HEAD/news/2026-11-06-hey-there.webp","popup":true}]}
+wtcore-feed 1 ZP5FmNS/Ga0LrckT9QnJtVTb6h3eHEShBmxiy0kyxg/Jow9KlQc7f/5sKZD9jZkyAoWltcXNc8BlQYV3pX4ajg==
+{"app":"WTCore","published":1794007415175,"latest":null,"cores":{},"news":[{"id":"2026-11-06-hey-its-me","title":"hey its me","body":"velocity","date":1794007415175,"image":null,"popup":false},{"id":"2026-11-06-hey-there","title":"Hey there!","body":"Welcome to WTCore!","date":1794007382672,"image":"https://raw.githubusercontent.com/nerd-bear/WTCore/HEAD/news/2026-11-06-hey-there.webp","popup":true}]}
