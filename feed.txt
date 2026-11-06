@@ -1,0 +1,2 @@
+wtcore-feed 1 osWMwBssyOpx9aHLxMp6pVYyLdVpkxUEifS/etsYfAYFXPNV6zcG7tmeufwyD7TFI9wcckcnFuglqvESmCi+yA==
+{"app":"WTCore","published":1794007382672,"latest":null,"cores":{},"news":[{"id":"2026-11-06-hey-there","title":"Hey there!","body":"Welcome to WTCore!","date":1794007382672,"image":"https://raw.githubusercontent.com/nerd-bear/WTCore/HEAD/news/2026-11-06-hey-there.webp","popup":true}]}
